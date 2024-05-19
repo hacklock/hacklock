@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-devopsdosamba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devopsdosamba@gmail.com)](mailto:devopsdosamba@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/hacklock) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hacklock)
 
-- 🔭 **I’m currently working in DevSecOps.**
+- 🔭 **I’m currently working in Devops Engineer.**
 - 🌱 **I’m currently learning for Systems Security Professional (CISSP).**
 
   
