@@ -88,7 +88,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hacklock&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=hacklock&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 
 ## Recent Blog Posts  
