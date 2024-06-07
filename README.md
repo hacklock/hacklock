@@ -10,7 +10,7 @@
   
 - 🌱 Kubernetes
  
-- DevSecops SRE  Golang/PHP  
+DevOps Engineer | SysAdmin | Data Analyst | PHP/Go/Nodejs  
 
 - ⚡  (WAF, SAST, DAST, IAST, SCA)  
   
