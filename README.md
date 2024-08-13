@@ -10,7 +10,7 @@
   
 - 🌱 Kubernetes
  
-DevOps Engineer | SysAdmin | Data Analyst | PHP/Go/Nodejs  
+DevOps Engineer | SysAdmin | FullStack | PHP/Java/Ruby 
 
 - ⚡  (WAF, SAST, DAST, IAST, SCA)  
   
