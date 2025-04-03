@@ -12,7 +12,11 @@
  
 | Cyber Security | Devops | Software Engineer
 
-- ⚡  (WAF, SAST, DAST, IAST, SCA)  
+- ⚡  (WAF, SAST, DAST, IAST, SCA)
+- ⚡  MITRE ATT&CK Framework 
+- ⚡  SIEM (Splunk, ELK, QRadar), Kali Linux, Metasploit
+- ⚡  Defense and Forensics, Threat Hunting, Vulnerability Management
+- ⚡  OSINT and Deep Web
   
 <br/>  
 
