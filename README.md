@@ -8,7 +8,7 @@
 - 🌱 **I’m currently learning Artificial intelligence for cybersecurity.**
 
   
-- 🌱 Kubernetes
+- 🌱 Graylog,Kibana,ElasticSearch
  
 | Cyber Security | Devops | Software Engineer
 
