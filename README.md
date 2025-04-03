@@ -10,7 +10,7 @@
   
 - 🌱 Kubernetes
  
-DevOps Engineer | SysAdmin | FullStack | PHP/Java/Ruby 
+| Cyber Security | Devops | Software Engineer
 
 - ⚡  (WAF, SAST, DAST, IAST, SCA)  
   
@@ -39,7 +39,7 @@ DevOps Engineer | SysAdmin | FullStack | PHP/Java/Ruby
 <div align="center">  
  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
